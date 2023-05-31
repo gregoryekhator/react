@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\backend",
+    "\\backend\\models",
+    "\\backend\\routes",
+    "\\frontend",
+    "\\frontend\\public",
+    "\\frontend\\src",
+    "\\frontend\\src\\components",
+    "\\frontend\\src\\screens"
+  ],
+  "SelectedNode": "\\frontend\\src\\screens\\ShippingAddressScreen.js",
+  "PreviewInSolutionExplorer": false
+}
