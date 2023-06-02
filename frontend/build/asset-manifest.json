@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b41f99d3.css",
+    "main.js": "/static/js/main.8d91e05c.js",
+    "static/media/logo_circular_200.png": "/static/media/logo_circular_200.2a433d2b62a377f7df41.png",
+    "index.html": "/index.html",
+    "main.b41f99d3.css.map": "/static/css/main.b41f99d3.css.map",
+    "main.8d91e05c.js.map": "/static/js/main.8d91e05c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b41f99d3.css",
+    "static/js/main.8d91e05c.js"
+  ]
+}
